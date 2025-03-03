@@ -19,7 +19,7 @@ llm1 = LLM(
 )
 
 
-search_tools_1 = SerperDevTool(api_key=serper_api_key)
+search_tools_1 = SerperDevTool()
 
 
 
